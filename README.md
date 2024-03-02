@@ -35,3 +35,5 @@ Our API should be able to access one of the largest dog databases. As such our r
 
 ## Task 3: Push code and open a PR on this repo
 
+## Task Completed: Pushed code and opened a PR on this repo 
+#**Go To The "tests" directory for the complete code of UI and API** 
